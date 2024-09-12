@@ -5,3 +5,4 @@ the modeling.
 demonstration of the process by 70%.
 • Show the total distance, downforce in newtons, lost velocity, compactest radius curvature, and maximum required
 static friction coefficient.
+• This program is made in MATLAB.
